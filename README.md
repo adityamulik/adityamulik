@@ -7,7 +7,7 @@
   <ul>
     <li>Python</li>
     <li>JavaScript</li>
-    <li>Java - Actively coding using Java Programming Language.</li>
+    <li>Java</li>
   </ul>
   <h4>My Tech Stack:</h4>
   <ul>
@@ -20,7 +20,7 @@
 <p>
   
 <p>
-I delve into Web3 (Blockchain) technology, Open Source projects and Cloud/ DevOps automation pipelines.
+I'm currently working with Red Hat Inc. in the Ansible Automation Platform Team!
 <br />
 Automating the boring stuff, coming up with unique solutions or problem solving is what I'm passionate about!
 </p>
