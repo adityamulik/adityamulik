@@ -3,7 +3,6 @@
 <h4>Below are my expertise in & technology I've worked on...</h4>
 
 <p>
-  <h4>Programming Languages:</h4>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamulik&langs_count=8">
   </div>
