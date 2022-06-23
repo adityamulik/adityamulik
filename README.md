@@ -4,7 +4,7 @@
 
 <p>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamulik&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamulik&langs_count=4">
   </div>
   <h4>My Tech Stack:</h4>
   <ul>
