@@ -3,18 +3,16 @@
 <h4>Below are my expertise in & technology I've worked on...</h4>
 
 <p>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamulik&langs_count=4">
-  </div>
   <h4>My Tech Stack:</h4>
   <ul>
     <li>Backend: Django, Flask, ExpressJS</li>
     <li>Frontend: ReactJS, Vanilla JS (Html/CSS)</li>
     <li>Database: MySQL/ MongoDB</li>
-    <li>Cloud: AWS and Azure</li>
-    <li>Java - Actively coding using Java 8 Programming Language.</li>
+    <li>Cloud: AWS</li>    
   </ul>
 <p>
+
+<p>I code using Python, JavaScript & Java Programming Languages. I use shell scripting for automation.</p>
   
 <p>
 I'm currently working with Red Hat Inc. in the Ansible Automation Platform Team!
@@ -27,3 +25,5 @@ Automating the boring stuff, coming up with unique solutions or problem solving 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adityamulik">
 </p>
+
+<p>Know more about me by visiting <a href="https://www.adityamulik.com/" target="_blank"><i>Aditya Mulik's Portfolio</a>.</i></p>
