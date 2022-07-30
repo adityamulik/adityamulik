@@ -15,8 +15,6 @@
 <p>I code using Python, JavaScript & Java Programming Languages. I use shell scripting for automation.</p>
   
 <p>
-I'm currently working with Red Hat Inc. in the Ansible Automation Platform Team!
-<br />
 Automating the boring stuff, coming up with unique solutions or problem solving is what I'm passionate about!
 </p>
 
