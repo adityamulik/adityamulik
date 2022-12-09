@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Aditya Mulik. 👋</h3>
 
-<h4>Below are my expertise in & technology I've worked on...</h4>
+<h4>Below are my expertise in & technologies I've worked on...</h4>
 
 <p>
   <h4>My Tech Stack:</h4>
