@@ -5,23 +5,17 @@
 <p>
   <h4>My Tech Stack:</h4>
   <ul>
-    <li>Backend: Django, Flask, ExpressJS</li>
+    <li>Backend: SpringBoot, Django, Flask, ExpressJS</li>
     <li>Frontend: ReactJS, Vanilla JS (Html/CSS)</li>
-    <li>Database: MySQL/ MongoDB</li>
-    <li>Cloud: AWS</li>    
+    <li>Database: MySQL, MongoDB, Neo4j Graph DB</li>
+    <li>Cloud: AWS, Azure</li>    
   </ul>
 <p>
 
-<p>I code using Python, JavaScript & Java Programming Languages. I use shell scripting for automation.</p>
+<p>I currently work at Walmart Global Tech as a Software Engineer - III.</p>
   
 <p>
-Automating the boring stuff, coming up with unique solutions or problem solving is what I'm passionate about!
-</p>
-
-<h4>Below is my active contribution and commit stats!</h4>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityamulik">
+Automating the boring stuff, coming up with unique solutions is what I'm passionate about!
 </p>
 
 <p>Know more about me by visiting <a href="https://www.adityamulik.com/" target="_blank"><i>Aditya Mulik's Portfolio</a>.</i></p>
