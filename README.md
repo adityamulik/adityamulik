@@ -12,10 +12,6 @@
   </ul>
 <p>
 
-<p>I currently work at Walmart Global Tech as a Software Engineer. I'm actively coding in Java these days!</p>
-  
-<p>
-Automating the boring stuff, coming up with unique solutions is what I'm passionate about!
-</p>
+<p>I currently work at Walmart Global Tech as a Software Engineer.</p>
 
 <p>You can know more about me by visiting my portfolio website <a href="https://www.adityamulik.com/" target="_blank"><i>Aditya Mulik's Portfolio</a>.</i></p>
