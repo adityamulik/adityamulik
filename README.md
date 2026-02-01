@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **Software Engineer at Walmart Global Tech**, building **robust, scalable distributed systems** with a strong focus on backend architecture, cloud platforms, and production-grade reliability.
+I’m a **Senior Software Engineer at Walmart Global Tech**, building **robust, scalable distributed systems** with a strong focus on backend architecture, cloud platforms, and production-grade reliability.
 
 I actively work on **agentic AI workflows**, exploring how LLM-driven systems can be orchestrated safely and efficiently alongside traditional distributed architectures.
 
