@@ -13,27 +13,6 @@ I actively work on **agentic AI workflows**, exploring how LLM-driven systems ca
 
 ---
 
-### 🛠 Tech Stack
-
-**Backend**
-- Spring Boot, FastAPI
-
-**Frontend**
-- React.js, JavaScript (HTML / CSS)
-
-**Databases**
-- MySQL, MongoDB, Neo4j (Graph DB)
-
-**Cloud & DevOps**
-- GCP (Actively Working), past experience with AWS & Azure
-
-**Agentic AI & Orchestration**
-- LangChain (agent & workflow orchestration)
-- Google ADK (Agent Development Kit)
-- LLM workflow design, tool-calling, and multi-agent coordination
-
----
-
 ### ⚙️ Engineering Workflow (How I Build Systems)
 When building **production-grade distributed applications**, my approach typically includes:
 - Designing **clear service boundaries** and data ownership
